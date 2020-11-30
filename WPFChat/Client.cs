@@ -11,6 +11,7 @@ namespace WPFChat
     /// </summary>
     class Client
     {
-        ///Для особенных
+        //Для особенных
+        //Заебал
     }
 }
