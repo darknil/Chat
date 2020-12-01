@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFChat", "WPFChat\WPFChat.csproj", "{C46693A6-6E65-411C-A720-80B240EEC88C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{3ECC8350-7339-4EFF-8630-14721A36398E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C46693A6-6E65-411C-A720-80B240EEC88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C46693A6-6E65-411C-A720-80B240EEC88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C46693A6-6E65-411C-A720-80B240EEC88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECC8350-7339-4EFF-8630-14721A36398E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECC8350-7339-4EFF-8630-14721A36398E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECC8350-7339-4EFF-8630-14721A36398E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECC8350-7339-4EFF-8630-14721A36398E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
