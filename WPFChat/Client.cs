@@ -13,5 +13,6 @@ namespace WPFChat
     {
         //Для особенных
         //Заебал
+        //sam zaebal
     }
 }
